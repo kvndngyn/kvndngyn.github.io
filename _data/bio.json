@@ -1,157 +1,152 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kevin Nguyen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/profilePic.png",
+    "email": "nk279@hawaii.edu",
+    "phone": "808-589-6611",
+    "website": "https://kvndngyn.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "91-1077 Pakaweli St.",
+      "postalCode": "96707",
+      "city": "Kapolei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kvndngyn",
+        "url": "http://github.com/kvndngyn"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "kvndnguyen",
+        "url": "https://www.linkedin.com/in/kvndnguyen/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "kvndngyn",
+        "url": "http://twitter.com/kvndngyn"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kvndngyn",
+        "url": "http://instagram.com/kvndngyn"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Surfing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
+        "Surfboard",
+        "Waves"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "AI"
+        "Neural Networks"
       ]
-    }
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+        "Web Design"
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Proficient",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "MacOS"
       ]
-    }
+    },
+    {
+      "name": "Workshop Knowledge"
+      "level": "Proficient",
+      "keywords": [
+        "Machinery",
+        "Safety Equipment"
+      ]
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-27",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.7",
       "courses": [
+        "Introduction to Java",
+        "Discrete Math",
+        "C/C++",
+        "Algorithms",
+        "Software Development"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2019-09-31",
+      "endDate": "Present",
+      "summary": "Assist user's with tech support needs.",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
+    },
+    {
+      "company": "iTrampoline",
+      "position": "Lead",
+      "website": "http://www.itrampolinehawaii.com",
+      "startDate": "2017-06-06",
+      "endDate": "2019-08-01",
+      "summary": "Direct a team of employees to keep customers safe as they have fun.",
+      "highlights": [
+        "In charge of maintenance and inventory.",
+        "Make business calls and emails as well as write passdowns for the following leads.",
+        "In charge of training new employees.",
+        "Cash handling by making deposits and make sure tills are set for the next business day."
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Kapolei High School Robotics Team",
+      "website": "http://www.kapoleirobotics.com/",
+      "position": "Mentor",
+      "startDate": "2018",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Teach students about safety, machinery, and design process.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teach students to think outside the box to solve problems.",
+        "Teach students how to use machinery (ex. Mills) in a safe and proper manner.",
+        "Ensure students are always dressed properly to avoid injuries."
       ]
     }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "FIRST Robotics Regional Winners",
+      "date": "2016",
+      "awarder": "FIRST",
+      "summary": "Awarded to the winning alliance composed of three teams allowing them to qualify for championships."
     },
     {
       "title": "First place",
