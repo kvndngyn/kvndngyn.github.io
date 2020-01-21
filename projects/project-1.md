@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: FIRST Robotics Competition
+permalink: projects/FRC
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-04-01
 labels:
   - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Competition
+  - Game
+summary: My team developed a robot to be able to compete against others in the year's game theme.
 ---
 
 <div class="ui small rounded images">
