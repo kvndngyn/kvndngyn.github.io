@@ -15,7 +15,6 @@ summary: My team developed a robot to be able to compete against others in the y
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/frcSub1.jpg">
-  <img class="ui image" src="../images/frcSub2.jpg">
   <img class="ui image" src="../images/frcSub3.jpg">
   <img class="ui image" src="../images/frcSub4.jpg">
 </div>
