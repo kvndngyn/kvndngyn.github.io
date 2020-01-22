@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/frcMain.jpg
 title: FIRST Robotics Competition
 permalink: projects/FRC
 # All dates must be YYYY-MM-DD format!
@@ -14,31 +14,24 @@ summary: My team developed a robot to be able to compete against others in the y
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/frcSub1.jpg">
+  <img class="ui image" src="../images/frcSub2.jpg">
+  <img class="ui image" src="../images/frcSub3.jpg">
+  <img class="ui image" src="../images/frcSub4.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+FIRST Robotics is an international competition help across the nation and at other countries such as China, Australia, etc. Hawaii is well known for hosting one of the most international competitions with teams coming from Taipei, Australia, Japan, Korea, and local teams in Hawaii. Each competition has qualifiers to either get to be in the top 8 or prove that they are worth being in the final alliances. Each alliance is composed of 3 teams that are then partnered with 3 other alliances to compose a Blue and Red group. These two groups then challenge each other to try and score the most points to win the round.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The team I was in, Kapolei, had 5 different subteams: mechanical, electrical, programming, design, and strategy. I myself, was on both mechanical and strategy. Mechanical was in charge of fabricating the parts and assembly of the robot. We used machiens ranging from hand tools such as a screwdriver to big machines such as a mill. Strategy was a subteam made up of the top 4-6 students who have proved that they had the knowledge to make the big decisions that can make or break the robot. With that experience, I was able to learn how to thing outside the box to solve problems that arised when designing and prototyping mechanisms.
 
-Here is some code that illustrates how we read values from the line sensors:
+Now, for the problems our team faced but managed to overcome. There were numerous problems that came up as with many projects. The following are a couple of the major hurdles we faced and overcame:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+<ul>
+  <li> Climbing a rope to support 100+ pounds: We use a CIM motor with Versaplanetary gears that were made to create torque so that it was able to life the robot. Now the problem is, how did it stay there? To make it stay we added a ratchet to the end of the shaft so that it reeled one way. This was not a problem of the overall performance since this was the last maneuver of the round.</li>
+  <li>Movement: This may sound like a simple problem, just toss on wheels and get it to move. In some ways, yes, that is correct. Except, this year required a lot of unique movements where we did not only have to move forward and back but left and right. To do this, we used a mecanum drive. This allowed us that lateral movement to more efficiently line ourselves up so that we did not take as long to do one task. To do this, it used 4 wheels and with the help of the programming team, worked beautiful. Using different electrical components programmed specifically to help the robot go laterally. You take the wheel that is diagonally across from the other, and use that technique to achieve it.</li>
+</ul>
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can read comments from students from 2016's Kapolei team. (http://thevoiceofkapolei.com/kapolei-high-team-2445-robokap/).
 
 
 
