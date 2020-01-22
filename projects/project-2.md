@@ -1,25 +1,41 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/libraryMain.png
+title: Library Database
+permalink: projects/Library-Database
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Library
+  - Database
+summary: A library database I created for my first course in Java (ICS 111: Introduction to Java)
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/librarySub.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The library database is a project that I created for my final project in my first course of Java and for programming in general. For this porject, we were faced with the challenge to use inheritance and create classes that would store the patron's name, the book title, and the author of the book. This was a database created so that the user can keep track of the book that has been checked out and who checked it out. The user was also able to keep track of the date it was taken out and when it was supposed to be returned by. With the menu, the user was able to see all their patrons and books. They were also allowed to make edits to the names and authors in case there was any errors made during the initial adding of them.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This was a solo project that I had to tackle by myself. Since this was my first ever course and first time ever making a code, I ran into difficulties when making it. For one, inheritance can sometimes can get sometimes get tricky and hard to remember when you are dealing with multiple classes. For this, I create a Unified Modeling Language (UML) so that I was able to track what class had what attributes. Since this was my first real big project, I also ran into difficulties of getting the index of the book so that I was able to create a way for the user to easily pick the book they wanted to edit. Here was my final result after an extensive amount of time:
+```java
+	/**
+	 * Gets the title and author of a book.
+	 * 
+	 * @param title		Book's title.
+	 * @param author	Book's author.
+	 * @return			Title and author of selected book.
+	 */
+	public static int indexOfBook(String title, String author) {
+		for(int i = 0; i < BookList.size(); i++) {
+			if(BookList.get(i).getTitle().equals(title) && BookList.get(i).getAuthor().equals(author)) {
+				return i;
+		}
+		
+	}
+		return -1;
+	
+	}
+  ```
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
