@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/libraryMain.png
+image: images/libraryMain.jpg
 title: Library Database
 permalink: projects/Library-Database
 # All dates must be YYYY-MM-DD format!
