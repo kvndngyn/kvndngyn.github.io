@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/libraryMain.jpg
 title: Library Database
-permalink: projects/Library-Database
+permalink: projects/LibraryDatabase
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-10
 labels:
