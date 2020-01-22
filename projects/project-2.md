@@ -10,7 +10,7 @@ labels:
   - Java
   - Library
   - Database
-summary: A library database I created for my first course in Java (ICS 111: Introduction to Java)
+summary: A library database I created for my first course in Java (ICS 111: Introduction to Java).
 ---
 
 <img class="ui medium right floated rounded image" src="../images/librarySub.png">
@@ -30,9 +30,9 @@ This was a solo project that I had to tackle by myself. Since this was my first 
 		for(int i = 0; i < BookList.size(); i++) {
 			if(BookList.get(i).getTitle().equals(title) && BookList.get(i).getAuthor().equals(author)) {
 				return i;
-		}
+			}
 		
-	}
+		}
 		return -1;
 	
 	}
