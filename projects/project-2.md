@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/libraryMain.jpg
-title: Library Database
+title: Library
 permalink: projects/LibraryDatabase
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-10
@@ -18,7 +18,7 @@ summary: A library database I created for my first course in Java (ICS 111: Intr
 The library database is a project that I created for my final project in my first course of Java and for programming in general. For this porject, we were faced with the challenge to use inheritance and create classes that would store the patron's name, the book title, and the author of the book. This was a database created so that the user can keep track of the book that has been checked out and who checked it out. The user was also able to keep track of the date it was taken out and when it was supposed to be returned by. With the menu, the user was able to see all their patrons and books. They were also allowed to make edits to the names and authors in case there was any errors made during the initial adding of them.
 
 This was a solo project that I had to tackle by myself. Since this was my first ever course and first time ever making a code, I ran into difficulties when making it. For one, inheritance can sometimes can get sometimes get tricky and hard to remember when you are dealing with multiple classes. For this, I create a Unified Modeling Language (UML) so that I was able to track what class had what attributes. Since this was my first real big project, I also ran into difficulties of getting the index of the book so that I was able to create a way for the user to easily pick the book they wanted to edit. Here was my final result after an extensive amount of time:
-```
+```java
 /**
  * Gets the title and author of a book.
  * 
