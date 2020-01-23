@@ -39,4 +39,4 @@ public static int indexOfBook(String title, String author) {
  
 In the end, I was really proud of what I have accomplished. This class and this project made me who I am today, quite literally. It encouraged me to pursue Computer Science to explore the vast amounts of things you can do with it. It taught me problem solving skills and what goes on behind the scenes of those who create databases. This project really taught me that not everything can be solved when you face it once, but many many times. It made me take pride in my work and alwasy think of ways that I can improve on it. After more experience with coding, there is still much more that I could have done to further improve this.
  
-# Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com//"><i class="large github icon"></i></a>
