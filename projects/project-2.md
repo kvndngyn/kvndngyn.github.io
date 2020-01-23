@@ -1,4 +1,4 @@
-
+---
 layout: project
 type: project
 image: images/libraryMain.jpg
@@ -11,7 +11,7 @@ labels:
   - Library
   - Database
 summary: A library database I created for my first course in Java (ICS 111: Introduction to Java).
-
+---
 
 <img class="ui medium right floated rounded image" src="../images/librarySub.png">
 
