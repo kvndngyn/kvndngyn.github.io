@@ -39,4 +39,4 @@ The only real difficult challenge I ran into during the creation of this simple 
 
 The take away from this project was what I learned about how random number generators work in C.  You first have to initialize it before you can actually use it. it used ```srand(time(NULL))``` to first initialize it, then used ```int i = rand() % 3``` to create a random number between 1 - 3. The reason the numbers just had to be 1 - 3 was just so it was assigned a number for each choice possible. By doing so, I was able to use a switch statement to make the computer return a choice.
 
-Source: 
+Source: <a href="https://github.com/kvndngyn/RockPaperScissors"><i class="large github icon"></i>"kvndngyn/RockPaperScissors"</a>
