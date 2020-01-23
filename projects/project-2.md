@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/libraryMain.jpg
-title: Library
+title: Library Database
 permalink: projects/LibraryDatabase
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-10
@@ -10,7 +10,7 @@ labels:
   - Java
   - Library
   - Database
-summary: A library database I created for my first course in Java (ICS 111: Introduction to Java).
+summary: A library database I created for my first course in Java (ICS 111 Introduction to Java).
 ---
 
 <img class="ui medium right floated rounded image" src="../images/librarySub.png">
