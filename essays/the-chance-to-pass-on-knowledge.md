@@ -11,7 +11,7 @@ labels:
 ---
 
 <img class="ui centered fluid rounded image" src="../images/mentor1.png">
-<blockquote>"We make a living by what we get, we make a life by what we give." - Winston Churchill</blockquote>
+*"We make a living by what we get, we make a life by what we give." - Winston Churchill*
 
 ## The Inspiration
 
