@@ -10,8 +10,8 @@ labels:
   - Robotics
 ---
 
-*"We make a living by what we get, we make a life by what we give." - Winston Churchill*
-<img class="ui large image" src="../images/mentor1.png" class="center">
+<blockquote>"We make a living by what we get, we make a life by what we give." - Winston Churchill</blockquote>
+<img class="ui large image" src="../images/mentor1.png" align="middle">
 
 ## The Inspiration
 
