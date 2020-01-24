@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+<img class="ui tiny left circular floated image" src="../images/js1.jpg">
 
 Are you interested in software development? Do you have little to no experience with programming and that vast amounts of languages? If you said yes to both those questions, you will get feedback from someone just like you.
 
@@ -38,7 +38,7 @@ function foo(a, b) {
 ```
 So another question some beginners may ask is, "how are you learning this language?". It's simple. If you are really motivated, you can easily go online and find hundreds of resources, free and paid, that allow you to learn Javascript. However, if you need someone to give you a little push, taking a course with peers, like in college, will greatly help. That is the way I am learning. By doing practice WODs, practice problems, I use the knowledge I learned to try and solve that problem. It may seem stressful at first, but once you accomplish your first one, you'll be left craving more. 
 
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
+<img class="ui tiny left circular floated image" src="../images/js2.png">
 
-If you are really having fun with this, it is worth pursuing. Everything I stated above, was the process I have gone through so far with any language and especially with Javascript. This is probably one of the more fun languages I have learned so far. Javascript is the fifth language I have started to learn in the past two years. 
+If you are really having fun with this, it is worth pursuing. Everything I stated above, was the process I have gone through so far with any language and especially with Javascript. This is probably one of the more fun languages I have learned so far. Javascript is the fifth language I have started to learn in the past two years. If you have been wanting to start somewhere in this field of Computer Science, I highliy suggest that you make it a priority to learn this language early on.
 
