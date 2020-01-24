@@ -10,8 +10,8 @@ labels:
   - Robotics
 ---
 
+<img class="ui centered fluid rounded image" src="../images/mentor1.png">
 <blockquote>"We make a living by what we get, we make a life by what we give." - Winston Churchill</blockquote>
-<img class="ui centered large rounded image" src="../images/mentor1.png">
 
 ## The Inspiration
 
@@ -23,7 +23,11 @@ I was busy between school and work and I was not able to attend as much as I wou
 
 ## The Solution
 
-So what was my solution to this?
+So what was my solution to this? To take my time with learning through trial and error. I need to have patience with myself and be understanding if what makes sense to me does not make sense to them. Being able to teach effectively is a big feature that is hard to achieve. It takes a deep understanding of the subject at hand to allow you to put it in a simple way. One of my favorite quotes that I stumbled across during this challenge was:
+
+*"If you can't explain it simply, you don't understand it well enough" - Albert Einstein*
+
+I believe Albert Einstein quotes it in such an simple and understanding manner. If my student's do not understand the topic I am trying to teach, then that simply means I have to work on my understanding of the subject. A teaching method I tried out was to relate the topic to something more personal to the student. By using this method, I can make an analogy that not only helps the student understand, but to be further engaged with what they are doing.
 
 ## The Joy
 
