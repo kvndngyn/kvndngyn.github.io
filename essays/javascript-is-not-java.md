@@ -36,7 +36,7 @@ function foo(a, b) {
    }
 }
 ```
-So another question some beginners may ask is, "how are you learning this language?". It's simple. If you are really motivated, you can easily go online and find hundreds of resources, free and paid, that allow you to learn Javascript. However, if you need someone to give you a little push, taking a course with peers, like in college, will greatly help. That is the way I am learning. By doing practice WODs, practice problems, I use the knowledge I learned to try and solve that problem. It may seem stressful at first, but once you accomplish your first one, you'll be left craving more. 
+So another question some beginners may ask is, "how are you learning this language?" It's simple. If you are really motivated, you can easily go online and find hundreds of resources, free and paid, that allow you to learn Javascript. However, if you need someone to give you a little push, taking a course with peers, like in college, will greatly help. That is the way I am learning. By doing practice WODs, practice problems, I use the knowledge I learned to try and solve that problem. It may seem stressful at first, but once you accomplish your first one, you'll be left craving more. 
 
 <img class="ui tiny left circular floated image" src="../images/js2.png">
 
