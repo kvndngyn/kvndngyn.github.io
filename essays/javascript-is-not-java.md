@@ -40,5 +40,5 @@ So another question some beginners may ask is, "how are you learning this langua
 
 <img class="ui tiny left circular floated image" src="../images/js2.png">
 
-If you are really having fun with this, it is worth pursuing. Everything I stated above, was the process I have gone through so far with any language and especially with Javascript. This is probably one of the more fun languages I have learned so far. Javascript is the fifth language I have started to learn in the past two years. If you have been wanting to start somewhere in this field of Computer Science, I highliy suggest that you make it a priority to learn this language early on.
+If you are really having fun with this, it is worth pursuing. Everything I stated above, was the process I have gone through so far with any language and especially with Javascript. This is probably one of the more fun languages I have learned so far. Javascript is the fifth language I have started to learn in the past two years. If you have been wanting to start somewhere in this field of Computer Science, I highly suggest that you make it a priority to learn this language early on.
 
