@@ -14,12 +14,12 @@ labels:
 
 Are you interested in software development? Do you have little to no experience with programming and that vast amounts of languages? If you said yes to both those questions, you will get feedback from someone just like you.
 
-When I first got exposed to the world of programming, I had no clue about how endless the languages are and how infinite amounts of possibilities can be made. Possibly like most that are unaware, I had no clue that Javascript and Java were different...completely different. Javascript is a lot more flexible compared to Java. In Java, you must declare the type of variable in the class or it will not work. When you ask for a return in the class, you alos must return the same thing. However, in Javascript, you just have to put in the variables. What I like the most so far is that you are able to return not only the inputted variable type, but other types as well. An example below shows the difference. Java receives integers and returns integers. Javascript receives a variable and returns the variable or a string. I am open to any corrections as I am still and always will be learning both these languages.
+When I first got exposed to the world of programming, I had no clue about how endless the languages are and how infinite amounts of possibilities can be made. Possibly like most that are unaware, I had no clue that Javascript and Java were different...completely different. Javascript is a lot more flexible compared to Java. In Java, you must declare the type of variable in the class or it will not work. When you ask for a return in the class, you also must return the same thing. However, in Javascript, you just have to put in the variables. What I like the most so far is that you are able to return not only the inputted variable type, but other types as well. An example below shows the difference. Java receives integers and returns integers. Javascript receives a variable and returns the variable or a string. I am open to any corrections as I am still and always will be learning both these languages.
 
 #Java:
 ```java
 class foo(int a, int b) {
-  if (a = b) {
+  if (a == b) {
     return a;
   } else {
     return b;
@@ -29,7 +29,7 @@ class foo(int a, int b) {
 #Javascript:
 ```javascript
 function foo(a, b) {
-  if (a = b) {
+  if (a == b) {
     return a;
    } else { 
     return 'foo';
