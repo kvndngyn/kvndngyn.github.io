@@ -11,7 +11,7 @@ labels:
 ---
 
 <img class="ui centered fluid rounded image" src="../images/smartQuestion.jpg">
-*Call-Connect-Fix*
+->*Call-Connect-Fix*<-
 
 ## Disclaimer
 
