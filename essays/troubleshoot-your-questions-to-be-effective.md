@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: asd
+title: Troubleshoot Your Questions to be Effective
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
@@ -10,7 +10,8 @@ labels:
   - How To
 ---
 
-<img class="ui centered fluid rounded image" src="../images/smart-question.png">
+<img class="ui centered fluid rounded image" src="../images/smartQuestion.jpg">
+> *Call-Connect-Fix*
 
 ## Disclaimer
 
