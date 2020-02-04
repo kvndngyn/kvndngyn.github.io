@@ -29,7 +29,7 @@ Now, for the problems our team faced but managed to overcome. There were numerou
 + Movement: This may sound like a simple problem, just toss on wheels and get it to move. In some ways, yes, that is correct. Except, this year required a lot of unique movements where we did not only have to move forward and back but left and right. To do this, we used a mecanum drive. This allowed us that lateral movement to more efficiently line ourselves up so that we did not take as long to do one task. To do this, it used 4 wheels and with the help of the programming team, worked beautiful. Using different electrical components programmed specifically to help the robot go laterally. You take the wheel that is diagonally across from the other, and use that technique to achieve it.
 
 
-You can read comments from students from 2016's Kapolei team. (http://thevoiceofkapolei.com/kapolei-high-team-2445-robokap/).
+You can read comments from students from 2016's Kapolei team in this [article](http://thevoiceofkapolei.com/kapolei-high-team-2445-robokap/).
 
 
 
