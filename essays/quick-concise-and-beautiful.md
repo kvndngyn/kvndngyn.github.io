@@ -12,7 +12,7 @@ labels:
 
 <img class="ui centered fluid rounded image" src="../images/semanticUI.png">
 
-> ##### *User Interface (UI):*
+> #### *User Interface (UI):*
 > *The means by which the user and a computer system interact,* 
 > *in particular the use of input devices and software.*
 
