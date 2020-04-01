@@ -42,5 +42,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Implement a way for students to react to post in the Community page
 
 ---
-[^1] Hele: to come, go, move, walk
-[^2] Pau Hana: The time after work. It is considered a time for relaxation, informal socializing with friends and family, and enjoyment.
+[^1]: Hele: to come, go, move, walk
+[^2]: Pau Hana: The time after work. It is considered a time for relaxation, informal socializing with friends and family, and enjoyment.
