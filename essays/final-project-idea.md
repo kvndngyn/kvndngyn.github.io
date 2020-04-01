@@ -7,37 +7,40 @@ labels:
   - Software Engineering
   - Meteor
 ---
-# Project: UH Advisors
-This project idea was written in collaboration with [Jin Yan Wu](https://wjinyan.github.io/)
+# Project: WhatsUHp
 
 ## Overview
-*The problem*: Many UH students are left short of credits, have time to take extra courses, or even just incoming. However, not everyone wants to browse through a course catalog and read the descriptions to find out what interest them.
+*The problem*: Many UH students are busy while on campus. It's the daily cycle of going from class to class, work, eat, then to hele[^1] on home. With a hectic schedule, it sometimes can be easy to forget about social interactions.
 
-*The solution*: UH Advisors allows students to share their thoughts and opinions on the course they have taken. This will benefit the students looking for courses as they get to hear peer review of the subject. This application is meant to be fun and engaging for students to interact and possibly take courses together.
+*The solution*: WhatsUHp (pronounced "what's up"), is based on the popular [WhatsApp](https://www.whatsapp.com/) and is a site where students can meet other students who go to the same campus. Although the main focus is going to be group chat rooms, students can also share interest on a community postings page. This is a way to encourage students to make connections with their peers and share fun stories they are dying to share. 
 
 ## Approach
-From the get-go, students can get straight to searching for a course that piques their interest. They can do this by sorting by the most highly rated to a subject that interest them. One the initial card, students can see the course name, what campus and professor is the most reviewed, and the overall rating.
+Pau Hana[^2]? Students can create an account using their UH emails to join group chat rooms. These group chat rooms topics created by others such as "surfing", "student life", and "broken elevator". In these, students can join a group that allows them to talk with other people who share the same interest. If students don't see anything that interest them, they can always create a new discussion for others to join and chat. It's a quick way to make friends, plan events, and to dive into the diversity of the campus. 
 
-Want to write a review? Students can create a profile using their UH emails so that they can share their thoughts on a course that was fun for them. Course name, campus, and professor should be included because all those a factor when looking for courses. Students can also say what attributes it fulfills to kill two birds with one stone.
-
-Admins can monitor to make sure that the reviews are given in a critical manner (not just bad talk) and make sure the courses are actual courses. 
+ Dying to share a story? On the Community Posting's page, students can quickly share events or pictures of what they do. This can be things such as a recent events on campus, ghost stories of buildings, anything they want. This page will have these the post in a neat grid like fashion showing the most recent post on the top left. 
+ 
+ Admins can remove discussions that are inappropriate to the site. Admins may also mark topics they take part in with "Admin Favorite" to help gather more attention to them.
 
 ## Mockup page ideas
 Some possible mockup pages include:
 * Landing page
 * Student profile page
 * Admin home page
-* Browse courses by most popular or by subject
-* Add course page
+* Create topic discussion
+* Community post
 
 ## Use case ideas
-* New student goes to landing page, goes to browse and filters the reviewed courses by most popular/subject.
-* Student goes to landing page, logs in, finds a course they took, reviews what was interesting about it. 
-* Student goes to landing page, logs in, creates a course, leaves a review.
-* Admin goes to landing page, logs in, see's a review that is vulgar or a course that is fake, removes it.
+* New student goes to landing page, creates profile, broswe topics/community posting's, join discussion, chat.
+* Student goes to landing page, logs in, creates a topic, chat.
+* Students goes to landing page, logs in, post to community posting's page.
+* Admin goes to landing page, logs in, see's a inappropriate topic, removes it.
+* Admin goes to landing page, logs in, marks their favorite topic with "Admin Favorite".
 
 ## Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
-* Implement a chatting system for the students who are looking to chat with the students who have already took the course.
-* Implement a rating system for student reviews and add it to the browsing page.
-* Notify students if the course is available in the upcoming semester and when it is typically available.
+* Add a feature so students can add their interest and find those who share it.
+* Implement a way for students to react to post in the Community page
+
+---
+[^1] Hele: to come, go, move, walk
+[^2] Pau Hana: The time after work. It is considered a time for relaxation, informal socializing with friends and family, and enjoyment.
