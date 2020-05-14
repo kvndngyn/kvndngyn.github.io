@@ -5,7 +5,7 @@ image: images/cl-uh-b-logo.png
 title: CLUHB
 permalink: projects/CLUHB
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-14
+date: 2020-05-14
 labels:
   - UH Manoa Clubs
   - React
