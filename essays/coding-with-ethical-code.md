@@ -1,11 +1,9 @@
 ---
-layout: essay
-type: essay
 title: "Coding with Ethical Codes"
 date: 2020-04-23
 labels:
   - Software Engineering
-  - Ethics
+  - Ethics 
 ---
 
 ## A "Glitch" or a Feature?

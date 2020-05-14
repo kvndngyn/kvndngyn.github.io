@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: Troubleshoot Your Questions to be Effective
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30

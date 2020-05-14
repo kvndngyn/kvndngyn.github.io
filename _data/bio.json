@@ -6,7 +6,7 @@
     "email": "nk279@hawaii.edu",
     "phone": "808-589-6611",
     "website": "https://kvndngyn.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "91-1077 Pakaweli St.",
       "postalCode": "96707",
@@ -57,7 +57,13 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+        "React",
+        "Meteor",
+        "MongoDB"
       ]
     },
     {
@@ -80,17 +86,17 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
       "startDate": "2017-08-27",
       "endDate": "Present",
       "gpa": "2.7",
       "courses": [
-        "Introduction to Java",
+        "Introduction to Computer Science",
         "Discrete Math",
-        "C/C++",
+        "Program Structure",
         "Algorithms",
-        "Software Development"
+        "Software Engineering"
       ]
     }
   ],

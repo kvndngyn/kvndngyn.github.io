@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: The Chance to Pass on Knowledge
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
