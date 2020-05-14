@@ -38,6 +38,7 @@ HTML
 <button class="red-button">Red Button</button>
 ```
 ```css
+CSS
 .red-button {
   border: none;
   color: white;
@@ -49,7 +50,7 @@ HTML
 ```
 Now compare that to using [Semantic UI buttons](https://semantic-ui.com/elements/button.html) where all you need to do is import the framework and type:
 ```html
-<button class="ui red button">Red Button</button>v
+<button class="ui red button">Red Button</button>
 ```
 Both of them produce similar results although the styling may differ slightly. To be an efficient programmer, do not be afraid to use frameworks to help as it will save not only time, but the stress of making something look the way you want it to. 
 
