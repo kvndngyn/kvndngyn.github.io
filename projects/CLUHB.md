@@ -35,8 +35,8 @@ This application is built in JavaScript using React, Meteor, and MongoDB. Where 
 
     /** Filter to search results */
     clubsOnPage = clubsOnPage.filter(
-      (club) =>
-        club.clubName.toLowerCase().indexOf(this.state.search.toLowerCase()) !== -1,
+      (club) => club.clubName.toLowerCase().indexOf(
+                        this.state.search.toLowerCase()) !== -1,
     );
 ```
 To expain this a bit more, in the interest filter, I check to see if the select interest dropdown is empty, and if it is, it just displays all the clubs. If this was not the case, I created an empty array to store the clubs with the selected interest, went through all the clubs and filtered it down to the clubs that had the same interest. From there, it reassigns the clubs to display to those filters. That was the trickiest part as clearing the interest always seemed to remove all clubs from the page in general. The easy part came with the searching as it was able to work on what was displayed with all the clubs or with a filtered list. It went through the clubs and filtered it down to the clubs that included the key word that the student types in. This allows students to find the clubs contact information if they know what they were looking for. For anyone that has faced a problem for hours on end, I am sure you can relate to the satisfaction of finally coming to a working product.
