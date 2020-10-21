@@ -59,7 +59,10 @@
         "Semantic UI",
         "React",
         "Meteor",
-        "MongoDB"
+        "MongoDB",
+        "CommonLisp",
+        "NASM",
+        "Prolog"
       ]
     },
     {
@@ -67,7 +70,8 @@
       "level": "Proficient",
       "keywords": [
         "Windows",
-        "MacOS"
+        "MacOS",
+        "Linux"
       ]
     },
     {
@@ -92,7 +96,11 @@
         "Discrete Math",
         "Program Structure",
         "Algorithms",
-        "Software Engineering"
+        "Software Engineering",
+        "Programming Language Theory",
+        "Machine Level and Systems Programming",
+        "Operating Systems",
+        "Database Systems"
       ]
     }
   ],
@@ -140,6 +148,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Given to students with a 3.5 GPA or higher as a full-time student for the semester."
+    },
     {
       "title": "FIRST Robotics Regional Winners",
       "date": "2016",
