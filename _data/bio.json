@@ -25,20 +25,17 @@
   },
   "interests": [
     {
-      "name": "Artificial Intelligence",
+      "name": "Software Engineering",
       "keywords": [
-        "AI",
-        "Neural Networks"
+        "Website",
+        "Front-end"
       ]
     },
     {
-      "name": "Software Development",
+      "name": "Robotics",
       "keywords": [
-        "Web Design"
+        "Image Processing"
         ]
-    },
-    {
-      "name": "Robotics"
     }
   ],
   "skills": [
@@ -56,9 +53,10 @@
         "React",
         "Meteor",
         "MongoDB",
-        "CommonLisp",
-        "NASM",
-        "Prolog"
+        "CommonLISP",
+        "x86 NASM",
+        "Prolog",
+        "Perl"
       ]
     },
     {
@@ -67,15 +65,7 @@
       "keywords": [
         "Windows",
         "MacOS",
-        "Linux"
-      ]
-    },
-    {
-      "name": "Workshop Knowledge",
-      "level": "Proficient",
-      "keywords": [
-        "Machinery",
-        "Safety Equipment"
+        "Linux (Ubuntu)"
       ]
     }
   ],
@@ -86,7 +76,7 @@
       "studyType": "B.S.",
       "startDate": "2017-08-27",
       "endDate": "Present",
-      "gpa": "2.7",
+      "gpa": "2.94",
       "courses": [
         "Introduction to Computer Science",
         "Discrete Math",
