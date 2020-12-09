@@ -216,7 +216,6 @@ Team Kanaloa VIP
          read_file = regex.sub('2', read_file)
          write_file = open(file,'w')
          write_file.write(read_file)
-     ```
 + Added this script to the object classification drive
 + Seems that everything needed to be redone
     + Ran the code on all 200 files
