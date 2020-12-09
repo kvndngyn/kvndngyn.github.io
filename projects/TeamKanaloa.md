@@ -45,5 +45,5 @@ Quick Links:
 
 <a href="https://github.com/osrf/vorc">VORC Competition Details</a>
 
-<a href="">My Development Journal</a>
+<a href="https://github.com/kvndngyn/KanaloaWork/blob/main/2020/2020KanaloaJournal.md">My Development Journal</a>
 
