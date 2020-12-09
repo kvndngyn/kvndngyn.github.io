@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kanaloa.png
+image: images/kanaloa.jpg
 title: Team Kanaloa
 permalink: projects/team-kanaloa
 # All dates must be YYYY-MM-DD format!
