@@ -51,12 +51,13 @@
         "CSS",
         "Semantic UI",
         "React",
-        "Meteor",
         "MongoDB",
         "CommonLISP",
         "x86 NASM",
         "Prolog",
-        "Perl"
+        "Perl",
+        "CLI",
+        "Bash",
       ]
     },
     {
@@ -65,7 +66,9 @@
       "keywords": [
         "Windows",
         "MacOS",
-        "Linux (Ubuntu)"
+        "Linux (Ubuntu)",
+        "Docker",
+        "Metor"
       ]
     }
   ],
@@ -119,6 +122,18 @@
      }
   ],
   "volunteer": [
+    {
+      "organization": "Team Kanaloa - Unmanned X Systems VIP",
+      "website": "http://rip.eng.hawaii.edu/research/unmanned-x-systems/",
+      "position": "Member of Sensor Fusion Subsystem",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "The RIP Lab’s Unmanned X Systems (UXS) research group, or Team Kanaloa, is a Vertically Integrated Project (VIP) aimed towards the advancement of Unmanned Systems technologies.",
+      "highlights": [
+        "Virtual Competitions hosted by Open Source Robotics Foundation",
+        "Running the vehicle autonomously in simulation",
+      ]
+    }
     {
       "organization": "Kapolei High School Robotics Team",
       "website": "http://www.kapoleirobotics.com/",
