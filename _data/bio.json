@@ -132,13 +132,15 @@
     {
       "organization": "Team Kanaloa - Unmanned X Systems VIP",
       "website": "http://rip.eng.hawaii.edu/research/unmanned-x-systems/",
-      "position": "Member of Sensor Fusion Subsystem",
+      "position": "Member",
       "startDate": "2020",
       "endDate": "Present",
       "summary": "The RIP Lab’s Unmanned X Systems (UXS) research group, or Team Kanaloa, is a Vertically Integrated Project (VIP) aimed towards the advancement of Unmanned Systems technologies.",
       "highlights": [
+        "GNC Subsytem Lead, Spring 2021",
         "Virtual Competitions hosted by Open Source Robotics Foundation",
         "Running the vehicle autonomously in simulation",
+        "Technology Incubation, Demonstration and Experimentation Support (TIDES)"
       ]
     },
     {
